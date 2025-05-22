@@ -1,7 +1,5 @@
-## welcome to the world of git
+## Hello, Git
 
-- this is coming from dev-akash
-
+- yo sky here
 - I am adding this from
   `feature-branch-1`
-  -hhhh
